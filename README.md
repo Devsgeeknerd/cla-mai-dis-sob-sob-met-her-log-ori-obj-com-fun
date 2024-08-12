@@ -15,7 +15,8 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 
   * Revisar o conceito básico de sobrescrita de métodos e entender seu propósito na POO.
   * Explorar as regras e restrições relacionadas à sobrescrita.
-Compreender as Implicações e Desafios da Sobrescrita:
+
+* **Compreender as Implicações e Desafios da Sobrescrita:**
 
 Identificar os desafios comuns ao sobrescrever métodos, como manter a consistência e evitar efeitos colaterais indesejados.
 Analisar os impactos da sobrescrita na manutenção e na extensibilidade do código.
