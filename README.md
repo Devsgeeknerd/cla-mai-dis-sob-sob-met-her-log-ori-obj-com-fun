@@ -13,7 +13,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 
 * **Aprofundar o Entendimento da Sobrescrita de Métodos:**
 
-  * Revisar o conceito básico de sobrescrita de métodos e entender seu propósito na POO.
+  * **Revisar** o conceito básico de sobrescrita de métodos e entender seu propósito na **programação orientada a objetos** (POO).
   * Explorar as regras e restrições relacionadas à sobrescrita.
 
 * **Compreender as Implicações e Desafios da Sobrescrita:**
@@ -38,7 +38,8 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
   * Regras básicas da sobrescrita:
     * O método na subclasse deve ter a mesma assinatura (nome e parâmetros) do método na superclasse.
     * O método sobrescrito pode alterar a implementação original para fornecer uma funcionalidade específica da subclasse.
-Uso da Palavra-Chave super:
+
+* **Uso da Palavra-Chave super:**
 
 Como e quando usar super para invocar a implementação de um método na superclasse dentro de uma subclasse.
 Exemplos de uso de super para manter partes da funcionalidade original enquanto adiciona ou modifica outras partes.
