@@ -24,7 +24,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 * **Aplicar a Sobrescrita em Situações Complexas:**
 
   * Aprender como a sobrescrita pode ser usada em cenários avançados para modificar o comportamento de classes em hierarquias complexas.
-Compreender o uso de palavras-chave como super para chamar a implementação da superclasse, mantendo ou alterando o comportamento base.
+  * Compreender o uso de palavras-chave como super para chamar a implementação da superclasse, mantendo ou alterando o comportamento base.
 Discutir Boas Práticas e Padrões de Design Relacionados à Sobrescrita:
 
 Estudar padrões de design que dependem da sobrescrita de métodos, como o Template Method.
