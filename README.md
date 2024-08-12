@@ -3,6 +3,12 @@
 
 ***Conteúdo da Aula:***
 
+A aula "Mais Discussões Sobre a Sobrescrita de Métodos" oferece uma análise aprofundada da técnica de sobrescrita de métodos na programação orientada a objetos (POO).
+
+Esta aula expande o entendimento inicial da sobrescrita, explorando nuances avançadas, casos de uso específicos e os desafios associados ao uso dessa técnica em hierarquias de herança.
+
+Através de exemplos práticos e teóricos, os alunos aprenderão como a sobrescrita de métodos pode ser usada de forma eficaz para personalizar e estender o comportamento de classes derivadas, garantindo que as aplicações sejam flexíveis e adaptáveis.
+
 <!-- Informações -->
 ## &#8505; Informações
 
