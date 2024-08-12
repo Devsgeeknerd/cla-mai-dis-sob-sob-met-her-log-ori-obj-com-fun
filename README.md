@@ -37,7 +37,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
     * Modificar ou estender o comportamento de um método definido em uma classe base dentro de uma classe derivada.
   * Regras básicas da sobrescrita:
     * O método na subclasse deve ter a mesma assinatura (nome e parâmetros) do método na superclasse.
-O método sobrescrito pode alterar a implementação original para fornecer uma funcionalidade específica da subclasse.
+    * O método sobrescrito pode alterar a implementação original para fornecer uma funcionalidade específica da subclasse.
 Uso da Palavra-Chave super:
 
 Como e quando usar super para invocar a implementação de um método na superclasse dentro de uma subclasse.
