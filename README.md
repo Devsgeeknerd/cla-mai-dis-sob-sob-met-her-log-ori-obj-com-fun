@@ -11,7 +11,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 
 ## Objetivos de Aprendizagem
 
-Aprofundar o Entendimento da Sobrescrita de Métodos:
+* **Aprofundar o Entendimento da Sobrescrita de Métodos:**
 
 Revisar o conceito básico de sobrescrita de métodos e entender seu propósito na POO.
 Explorar as regras e restrições relacionadas à sobrescrita.
