@@ -18,7 +18,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 
 * **Compreender as Implicações e Desafios da Sobrescrita:**
 
-Identificar os desafios comuns ao sobrescrever métodos, como manter a consistência e evitar efeitos colaterais indesejados.
+  * Identificar os desafios comuns ao sobrescrever métodos, como manter a consistência e evitar efeitos colaterais indesejados.
 Analisar os impactos da sobrescrita na manutenção e na extensibilidade do código.
 Aplicar a Sobrescrita em Situações Complexas:
 
