@@ -7,9 +7,10 @@
 
 Esta aula **expande o entendimento inicial** da sobrescrita, explorando **nuances avançadas**, casos de uso específicos e os desafios associados ao uso dessa técnica em **hierarquias de herança.**
 
-Através de exemplos práticos e teóricos, os alunos aprenderão como a sobrescrita de métodos pode ser usada de forma eficaz para personalizar e estender o comportamento de classes derivadas, garantindo que as aplicações sejam flexíveis e adaptáveis.
+Através de **exemplos práticos e teóricos**, os alunos aprenderão como a sobrescrita de métodos pode ser usada de forma **eficaz** para **personalizar e estender** o comportamento de classes derivadas, garantindo que as aplicações sejam **flexíveis e adaptáveis.**
 
-Objetivos de Aprendizagem:
+## Objetivos de Aprendizagem
+
 Aprofundar o Entendimento da Sobrescrita de Métodos:
 
 Revisar o conceito básico de sobrescrita de métodos e entender seu propósito na programação orientada a objetos (POO).
@@ -60,7 +61,6 @@ Sobrescrever métodos apenas quando necessário e justificar a alteração no co
 Considerar o uso de anotações como @override (em linguagens que as suportam) para deixar claro que um método está sobrescrevendo um da superclasse.
 Introdução ao padrão Template Method:
 Como este padrão de design utiliza a sobrescrita para definir o esqueleto de um algoritmo em uma superclasse, permitindo que as subclasses implementem passos específicos.
-
 
 <!-- Informações -->
 ## &#8505; Informações
