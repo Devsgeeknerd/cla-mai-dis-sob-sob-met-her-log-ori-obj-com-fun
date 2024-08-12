@@ -35,7 +35,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 
   * Definição e propósito da sobrescrita de métodos:
     * Modificar ou estender o comportamento de um método definido em uma classe base dentro de uma classe derivada.
-Regras básicas da sobrescrita:
+  * Regras básicas da sobrescrita:
 O método na subclasse deve ter a mesma assinatura (nome e parâmetros) do método na superclasse.
 O método sobrescrito pode alterar a implementação original para fornecer uma funcionalidade específica da subclasse.
 Uso da Palavra-Chave super:
