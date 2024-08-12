@@ -29,8 +29,7 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 * **Discutir Boas Práticas e Padrões de Design Relacionados à Sobrescrita:**
 
   * Estudar padrões de design que dependem da sobrescrita de métodos, como o Template Method.
-Adotar boas práticas para garantir que a sobrescrita seja usada de forma segura e eficiente.
-Conteúdo da Aula:
+  * Adotar boas práticas para garantir que a sobrescrita seja usada de forma segura e eficiente.
 
 Revisão da Sobrescrita de Métodos:
 
