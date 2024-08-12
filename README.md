@@ -20,7 +20,8 @@ Através de exemplos práticos e teóricos, os alunos aprenderão como a sobresc
 
   * Identificar os desafios comuns ao sobrescrever métodos, como manter a consistência e evitar efeitos colaterais indesejados.
   * Analisar os impactos da sobrescrita na manutenção e na extensibilidade do código.
-Aplicar a Sobrescrita em Situações Complexas:
+
+* **Aplicar a Sobrescrita em Situações Complexas:**
 
 Aprender como a sobrescrita pode ser usada em cenários avançados para modificar o comportamento de classes em hierarquias complexas.
 Compreender o uso de palavras-chave como super para chamar a implementação da superclasse, mantendo ou alterando o comportamento base.
