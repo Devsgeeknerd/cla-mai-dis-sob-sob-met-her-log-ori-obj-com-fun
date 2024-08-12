@@ -3,43 +3,38 @@
 
 ***Conteúdo da Aula:***
 
-A aula "Mais Discussões Sobre a Sobrescrita de Métodos" oferece uma análise aprofundada da técnica de sobrescrita de métodos na programação orientada a objetos (POO).
+**A aula "Mais Discussões Sobre a Sobrescrita de Métodos" oferece uma análise aprofundada da técnica de sobrescrita de métodos na programação orientada a objetos (POO).**
 
 Esta aula expande o entendimento inicial da sobrescrita, explorando nuances avançadas, casos de uso específicos e os desafios associados ao uso dessa técnica em hierarquias de herança.
 
 Através de exemplos práticos e teóricos, os alunos aprenderão como a sobrescrita de métodos pode ser usada de forma eficaz para personalizar e estender o comportamento de classes derivadas, garantindo que as aplicações sejam flexíveis e adaptáveis.
 
-## Objetivos de Aprendizagem
+Objetivos de Aprendizagem:
+Aprofundar o Entendimento da Sobrescrita de Métodos:
 
-* **Aprofundar o Entendimento da Sobrescrita de Métodos:**
+Revisar o conceito básico de sobrescrita de métodos e entender seu propósito na programação orientada a objetos (POO).
+Explorar as regras e restrições relacionadas à sobrescrita.
+Compreender as Implicações e Desafios da Sobrescrita:
 
-  * **Revisar** o conceito básico de sobrescrita de métodos e entender seu propósito na **programação orientada a objetos** (POO).
-  * Explorar as regras e restrições relacionadas à sobrescrita.
+Identificar os desafios comuns ao sobrescrever métodos, como manter a consistência e evitar efeitos colaterais indesejados.
+Analisar os impactos da sobrescrita na manutenção e na extensibilidade do código.
+Aplicar a Sobrescrita em Situações Complexas:
 
-* **Compreender as Implicações e Desafios da Sobrescrita:**
+Aprender como a sobrescrita pode ser usada em cenários avançados para modificar o comportamento de classes em hierarquias complexas.
+Compreender o uso de palavras-chave como super para chamar a implementação da superclasse, mantendo ou alterando o comportamento base.
+Discutir Boas Práticas e Padrões de Design Relacionados à Sobrescrita:
 
-  * Identificar os desafios comuns ao sobrescrever métodos, como manter a consistência e evitar efeitos colaterais indesejados.
-  * Analisar os impactos da sobrescrita na manutenção e na extensibilidade do código.
+Estudar padrões de design que dependem da sobrescrita de métodos, como o Template Method.
+Adotar boas práticas para garantir que a sobrescrita seja usada de forma segura e eficiente.
+Conteúdo da Aula:
+Revisão da Sobrescrita de Métodos:
 
-* **Aplicar a Sobrescrita em Situações Complexas:**
-
-  * Aprender como a sobrescrita pode ser usada em cenários avançados para modificar o comportamento de classes em hierarquias complexas.
-  * Compreender o uso de palavras-chave como super para chamar a implementação da superclasse, mantendo ou alterando o comportamento base.
-
-* **Discutir Boas Práticas e Padrões de Design Relacionados à Sobrescrita:**
-
-  * Estudar padrões de design que dependem da sobrescrita de métodos, como o Template Method.
-  * Adotar boas práticas para garantir que a sobrescrita seja usada de forma segura e eficiente.
-
-* **Revisão da Sobrescrita de Métodos:**
-
-  * Definição e propósito da sobrescrita de métodos:
-    * Modificar ou estender o comportamento de um método definido em uma classe base dentro de uma classe derivada.
-  * Regras básicas da sobrescrita:
-    * O método na subclasse deve ter a mesma assinatura (nome e parâmetros) do método na superclasse.
-    * O método sobrescrito pode alterar a implementação original para fornecer uma funcionalidade específica da subclasse.
-
-* **Uso da Palavra-Chave super:**
+Definição e propósito da sobrescrita de métodos:
+Modificar ou estender o comportamento de um método definido em uma classe base dentro de uma classe derivada.
+Regras básicas da sobrescrita:
+O método na subclasse deve ter a mesma assinatura (nome e parâmetros) do método na superclasse.
+O método sobrescrito pode alterar a implementação original para fornecer uma funcionalidade específica da subclasse.
+Uso da Palavra-Chave super:
 
 Como e quando usar super para invocar a implementação de um método na superclasse dentro de uma subclasse.
 Exemplos de uso de super para manter partes da funcionalidade original enquanto adiciona ou modifica outras partes.
@@ -65,6 +60,7 @@ Sobrescrever métodos apenas quando necessário e justificar a alteração no co
 Considerar o uso de anotações como @override (em linguagens que as suportam) para deixar claro que um método está sobrescrevendo um da superclasse.
 Introdução ao padrão Template Method:
 Como este padrão de design utiliza a sobrescrita para definir o esqueleto de um algoritmo em uma superclasse, permitindo que as subclasses implementem passos específicos.
+
 
 <!-- Informações -->
 ## &#8505; Informações
